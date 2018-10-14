@@ -1,0 +1,19 @@
+img
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+padding-top: 100px;
+padding-bottom: 100px;
+  height: 600px;
+}
+p{
+
+  overflow: hidden;
+}
+#index_text
+{
+  text-align:center;
+  font-size: 500%;
+  font-family: sans-serif;
+}
